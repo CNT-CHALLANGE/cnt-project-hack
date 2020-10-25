@@ -9,7 +9,7 @@ const Container = styled.section`
   justify-content: center;
   margin: auto;
   margin-top: 10px;
-  min-height: 500px;
+  min-height: 700px;
   width: 100%;
   
 `;

@@ -37,7 +37,7 @@ const CriticalPoint = () => {
           <Button title="Próxima" value="/highwayType" clickFunction={handleClick}/>
         </div>
       </Container>
-      <Footer buttons={[{ title: 'Navegar' }]} picture="true" />
+      <Footer buttons={[{ title: 'Navegar' }]} picture={true} />
     </>
   );
 }
